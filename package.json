@@ -1,5 +1,6 @@
 {
-  "name": "maquinasvirtuales",
+  "name": "MaquinasVirtuales",
+  "homepage": "https://wilmer920123.github.io/MaquinasVirtuales/"
   "private": true,
   "version": "0.0.0",
   "type": "module",
